@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Yitan Li (李亦锬)
+
+{{<table class="imgtable"><tr>
+<td><img src="avatar.jpg" alt="alt text" height="175px"/></td>
+<td align="left"><p>I have graduated with a Master's degree <br />
+at <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.<br/>
+<br/>
+<p/>
+Email: <img src="email.png" height="15px" /> <br/>
+Office: 212, West Lab Building of Science and Technology, West Campus of USTC</p>
+</td></tr></table>}}
+
+{{<a id="interests"></a>}}
+== Research Interests
+
+My interests concentrate on Optimization, Machine Learning, Computer Vision, Nature Language Processing(NLP).
+
+{{<a id="education"></a>}}
+== Education
+
+- Sep.2013-2016: Master of Science, Major in Computer Science, University of Science and Technology of China
+- Sep.2009-Jul.2013: Bachelor of Engineering, Major in Computer Science, with GPA of 4.1/5.0(Rank first in my department), Nanjing University of Aeronautics and Astronautics
+
+{{<a id="honors"></a>}}
+== Honors
+
+- National Scholarship, 2015
+- Google Excellence Scholarship, 2015
+- Excellent President Award of Chinese Academy of Science, 2015
+- IJCAI-AIJ Travel Scholarship, 2015
+- AAAI Travel Scholarship, 2015
+- IEEE ICDM Travel Award, 2014
+- Guanghua Scholarship, 2014
+- National Scholarship, 2012
+- The First Prize Scholarship in university, 2012
+- Prize for excellence of programming contest in university, 2009
+
+{{<a id="papers"></a>}}
+== Publications
+- *Yitan Li*, Linli Xu, Xiaowei Zhong, Qing Ling, *Make Workers Work Harder: Decoupled Asynchronous Proximal Stochastic Gradient Descent*, 2016, [http://arxiv.org/abs/1605.06619 \[Arxiv\]].
+- *Yitan Li*, Linli Xu, Fei Tian, Liang Jiang, Xiaowei Zhong, Enhong Chen, *Word Embedding Revisited: A New Representation Learning and Explicit Matrix Factorization Perspective*, /The 24th International Joint Conference on Artificial Intelligence (IJCAI'2015)/, accepted, Buenos Aires, Argentina, July 25-31, 2015. [papers/EMF-IJCAI2015.pdf \[PDF\]] [https://github.com/etali/emf \[Code\]]. *If you are confused by the proof, this [papers/EMF-IJCAI2015/note.pdf \[Doc\]] may help.*
+- Linli Xu, *Yitan Li(First Student Author)*, Yubo Wang and Enhong Chen, *Temporally Adaptive Restricted Boltzmann Machine for Background Modeling*, /The 29th AAAI Conference on Artificial Intelligence (AAAI'2015)/, accepted, Austin, Texas USA, January 25–29, 2015. [papers/TARBM-AAAI2015.pdf \[PDF\]]
+- Xiaowei Zhong, Linli Xu, *Yitan Li*, Zhiyuan Liu, Enhong Chen, *A Nonconvex Relaxation Approach for Rank Minimization Problems*, /The 29th AAAI Conference on Artificial Intelligence (AAAI'2015)/, accepted, Austin, Texas USA, January 25–29, 2015. [papers/ISTRA-AAAI2015.pdf \[PDF\]]
+- Aiqing Huang, Linli Xu, *Yitan Li*, Enhong Chen. *Robust Dynamic Trajectory Regression on Road Networks: A Multi-Task Learning Framework*, /The 14th IEEE International Conference on Data Mining (ICDM'2014)/, 857-862, Shenzhen, China, December 14-17, 2014. [papers/MTL-ICDM2014.pdf \[PDF\]]
+
+{{<a name="experience"></a>}}
+== Experience
+
+- Research Intern, Eagle Lab, Zhejiang University, Jul.2012-Aut.2012.
+
+
+
